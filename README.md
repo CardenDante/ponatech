@@ -600,14 +600,6 @@ All documents feature hospital branding (logo, name, address, contact) and are o
 
 ## 18. Technical Overview
 
-### Architecture
-- **Frontend**: Next.js 14+ with App Router, React 18, TypeScript
-- **Styling**: Tailwind CSS with responsive design
-- **State Management**: React Query (TanStack Query) for server state, Zustand for UI state
-- **Backend**: Next.js API Routes (serverless-ready)
-- **Database**: PostgreSQL with Prisma ORM
-- **Authentication**: JWT-based with HTTP-only cookies
-
 ### Key Technical Features
 - **Real-time updates** via React Query polling
 - **Responsive design** — works on desktop, tablet, and mobile

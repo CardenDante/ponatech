@@ -1,4 +1,4 @@
-# Hospital Management System — Features
+# PONATECH — Features
 
 A modern, all-in-one hospital management platform for small to mid-size healthcare facilities.
 
