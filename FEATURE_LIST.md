@@ -29,11 +29,69 @@ A modern, all-in-one hospital management platform for small to mid-size healthca
 
 ## Why Choose This HMS?
 
-- **All-in-One** — Patient care, billing, HR, double-entry accounting, and reporting in one platform
-- **Kenyan Market Ready** — M-PESA, KES currency, NHIF/NSSF tax, local phone formats
-- **Secure** — 10 roles, 2FA, audit logging, OTP-protected sensitive config
-- **Customizable** — Feature flags and custom fields adapt to any facility
-- **Modern Stack** — Next.js, React, PostgreSQL — fast, reliable, self-hosted
+### 1. Cost Reduction
+
+Hospitals spend large amounts on inefficiencies. Our system reduces costs through:
+
+- Inventory control
+- Reduced paperwork
+- Reduced staff errors
+- Better procurement planning
+
+### 2. Time Savings
+
+With the system:
+
+- Registration takes seconds
+- Records appear instantly
+- Billing is automatic
+
+### 3. Better Clinical Decisions
+
+Electronic records allow doctors to see previous treatments, lab results, allergies, and medication history. This reduces:
+
+- Medical errors
+- Duplicate tests
+- Dangerous prescriptions
+
+### 4. Compliance and Legal Protection
+
+Hospitals face regulatory and legal risks. Our system provides:
+
+- Audit trails
+- Secure patient records
+- Compliance reporting
+
+If a dispute occurs, hospitals can prove what treatment was given.
+
+### 5. Data for Management Decisions
+
+Most hospital owners operate with limited data. The system provides insights such as:
+
+- Which departments generate the most revenue
+- Which drugs are most used
+- Which doctors see the most patients
+- Patient visit trends
+
+### 6. Hospital Reputation
+
+Patients notice efficiency. Hospitals using our modern system appear:
+
+- More professional
+- More organized
+- More trustworthy
+
+### Our Value Formula
+
+Our hospital system creates value through:
+
+- **Revenue Protection**
+- **Cost Reduction**
+- **Time Efficiency**
+- **Clinical Quality**
+- **Compliance**
+
+> *This is not software. It is the operating system of your hospital.*
 
 ---
 
